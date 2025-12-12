@@ -1,0 +1,24 @@
+Effective Date: 12/1/2025
+Sending Party: Jacob Shultz
+Receiving Party: Seth Baker
+
+1. Purpose
+    To keep the Programming Languages final project private until after turning it in.
+2. Confidential Information
+    Source code, grammar, and any other related shared documents on the private GitHub.
+3. Obligations
+    Must not share any confidential information.
+4. Term
+    This Agreement lasts until 12/9/2025 or until information is no longer confidential.
+5. Return
+    Upon request or termination, all confidential materials must be returned or destroyed.
+6. Governing Law
+    Laws of the United States of America govern this Agreement.
+
+Signatures
+Sending Party:
+    Name: Jacob Shultz Title: Project Partner
+    Signature: Jacob Shultz Date: 12/1/2025
+Receiving Party:
+    Name: Seth Baker Title: Project Partner
+    Signature: Seth Baker Date: 12/1/2025

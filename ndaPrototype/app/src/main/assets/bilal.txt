@@ -1,0 +1,24 @@
+Effective Date: 11/10/2025
+Sending Party: Bilal Hassan
+Receiving Party: Seth Baker
+
+1. Purpose
+    To protect the ideas for the final project for Bilitski.
+2. Confidential Information
+    Source code, text messages, and documentation for the project.
+3. Obligations
+    Must not share any confidential information.
+4. Term
+    This Agreement lasts until 12/11/2025 or until information is no longer confidential.
+5. Return
+    Upon request or termination, all confidential materials must be returned or destroyed.
+6. Governing Law
+    Laws of the United States of America govern this Agreement.
+
+Signatures
+Sending Party:
+    Name: Bilal Hassan Title: Student
+    Signature: Bilal Hassan Date: 11/10/2025
+Receiving Party:
+    Name: Seth Baker Title: Student
+    Signature: Seth Baker Date: 11/10/2025

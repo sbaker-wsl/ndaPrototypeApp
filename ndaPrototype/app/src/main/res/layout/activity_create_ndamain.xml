@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreateNDAMainActivity">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginBottom="664dp"
+        android:text="Fill in required fields (encased in {{}})\nor write in your own NDA."
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/nda_text"
+        android:layout_width="347dp"
+        android:layout_height="500dp"
+        android:layout_marginTop="115dp"
+        android:layout_marginBottom="116dp"
+        android:width="400dp"
+        android:height="500dp"
+        android:clickable="true"
+        android:elegantTextHeight="true"
+        android:enabled="true"
+        android:focusableInTouchMode="true"
+        android:inputType="text|textMultiLine"
+        android:overScrollMode="always"
+        android:scrollbars="vertical"
+        android:text="Effective Date: {{effective_date}}\nSending Party: {{sender}}\nReceiving Party:{{receiver}}\n\n1. Purpose\n{{purpose}}\n2. Confidential Information\n{{confidential_info}}\n3. Obligations\n{{obligations}}\n4. Exclusions\n{{exclusions}}\n5. Term\nThis Agreement lasts until {{end_date}} or until information is no longer confidential.\n6. Return\nUpon request or termination, all confidential materials must be returned or destroyed.\n7. Governing Law\nLaws of {{governing_law}} govern this Agreement.\n\nSignatures\n\nSending Party: {{sending_signature}} Date: {{sender_date}}\n\nReceiving Party: {{receiver_signature}} Date: {{receiver_date}}"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/create_nda_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="667dp"
+        android:layout_marginBottom="16dp"
+        android:text="create"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

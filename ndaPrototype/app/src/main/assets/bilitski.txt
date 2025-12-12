@@ -1,0 +1,24 @@
+Effective Date: 12/10/2025
+Sending Party: James Bilitski
+Receiving Party: Seth Baker
+
+1. Purpose
+    To ensure that students don't post my material online!
+2. Confidential Information
+    Every in-class assignment, notes, and exams.
+3. Obligations
+    Must not post any of James Bilitski's material online
+4. Term
+    This Agreement lasts until 1/1/2030 or until information is no longer confidential.
+5. Return
+    Upon request or termination, all confidential materials must be returned or destroyed.
+6. Governing Law
+    Laws of the United States of America govern this Agreement.
+
+Signatures
+Sending Party:
+    Name: James Bilitski Title: Professor
+    Signature: J Bilitski Date: 12/5/2025
+Receiving Party:
+    Name: Seth Baker Title: Student
+    Signature: {{receiver_signature}} Date: {{receiver_date}}

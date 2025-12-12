@@ -1,0 +1,26 @@
+Effective Date: {{effective_date}}
+Sending Party: {{sender}}
+Receiving Party: {{receiver}}
+
+
+1. Purpose
+    {{purpose}}
+2. Confidential Information
+    {{confidential_info}}
+3. Obligations
+    {{obligations}}
+4. Exclusions
+    {{exclusions}}
+5. Term
+    This Agreement lasts until {{end_date}} or until information is no longer confidential.
+6. Return
+    Upon request or termination, all confidential materials must be returned or destroyed.
+7. Governing Law
+    Laws of {{governing_law}} govern this Agreement.
+Signatures
+Sending Party:
+    Name: {{sender_name}} Title: {{sender_title}}
+    Signature: {{sender_signature}} Date: {{sender_date}}
+Receiving Party:
+    Name: {{receiver_name}} Title: {{receiver_title}}
+    Signature: {{receiver_signature}} Date: {{receiver_date}}

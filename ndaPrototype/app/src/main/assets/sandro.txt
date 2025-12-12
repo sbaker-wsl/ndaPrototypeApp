@@ -1,0 +1,24 @@
+Effective Date: 12/10/2025
+Sending Party: Sandro
+Receiving Party: Seth Baker
+
+1. Purpose
+    To protect the secret Sandro algorithm
+2. Confidential Information
+    Sandro algorithm source code
+3. Obligations
+    Must not share the Sandro algorithm with anyone
+4. Term
+    This Agreement lasts until 1/1/2050 or until information is no longer confidential.
+5. Return
+    Upon request or termination, all confidential materials must be returned or destroyed.
+6. Governing Law
+    Laws of the United States of America govern this Agreement.
+
+Signatures
+Sending Party:
+    Name: Sandro Title: Professor
+    Signature: Sandro Date: 12/9/2025
+Receiving Party:
+    Name: Seth Baker Title: Researcher
+    Signature: {{receiver_signature}} Date: {{receiver_date}}
