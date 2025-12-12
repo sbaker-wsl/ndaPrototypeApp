@@ -9,7 +9,7 @@ The SRS was completed by myself, Justin Rhodes, and Bilal Hassan.  The SRS conta
 
 
 # Prototype App Created in Android Studio
-[Click here to jump to the prototype](ndaPrototype)  
+[Click here to jump to the prototype's Android Studio project](ndaPrototype)  
 
 I (Seth Baker) worked on the prototype and developed it in its entirety.  I worked with Justin and Bilal to ensure that the prototype followed the requirements and also satisfied important design requirements to ensure the best result.
 The prototype simulates the main functions the final app would eventually implement.  It does this by utilizing both internal storage on the users Android device as well as read-only files stored within the project itself.  Upon full implementation, this file-based system would be replaced with a Database containing the NDAs and the user's account information, as well as being used to provide full functionality of user account creation.
