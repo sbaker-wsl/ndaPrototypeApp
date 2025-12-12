@@ -1,4 +1,4 @@
-# ndaPrototypeApp
+# NDA Prototype App and SRS
 Final project for CS 1735 Software Design Methodology for Fall 2025.  SRS and a prototype app developed in Android Studio are deliverables. Contributors: Justin Rhodes, Bilal Hassan and Seth Baker  
 
 
